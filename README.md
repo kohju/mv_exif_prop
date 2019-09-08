@@ -19,7 +19,7 @@ sudo perl -MCPAN -e"install Image::MetaData::JPEG"
 ## Usage 使い方
 
 
-'''
+```
 mv *.JPG
-'''
+```
 
